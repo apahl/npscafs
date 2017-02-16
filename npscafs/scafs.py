@@ -10,8 +10,6 @@ Handling Natural Product Scaffolds.
 """
 
 import os
-import os.path as op
-
 from copy import deepcopy
 
 from rdkit.Chem import AllChem as Chem
